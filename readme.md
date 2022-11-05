@@ -49,4 +49,4 @@ Entrez le pseudo : METTEZ LE PSEUDO ICI
 
 Bonne utilisation à tous.
 
-![Texte alternatif](example.png "Example").
+![Texte alternatif](example.PNG "Example").
