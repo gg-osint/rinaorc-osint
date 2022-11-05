@@ -25,7 +25,7 @@ $ cd rinaorc-osint
 $ start install.bat
 ```
 
-Une fois cela fait, vous devez vous connecter sur Rinaorc, vous allez faire la commande /api. Vous allez avoir un code que vous allez devoir mettre dans le fichier nommé config.json
+Une fois cela fait, vous devez vous connecter sur Rinaorc, vous allez faire la commande /api. Vous allez avoir un code que vous allez devoir mettre dans le fichier nommé config.json. Ce code permet de vous authentifier et communiquer avec le serveur.
 
 ## Utilisation
 
