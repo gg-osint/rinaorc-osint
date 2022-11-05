@@ -12,6 +12,8 @@
   <a href="#usage">Utilisation</a>
 </p>
 
+NodeJS V17.x est requis !
+
 ## Installation
 
 ```console
