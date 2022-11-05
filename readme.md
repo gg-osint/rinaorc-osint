@@ -1,6 +1,6 @@
 <p align=center>
   <br>
-  <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
+  <a href="https://sherlock-project.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
   <br>
   <span>Un outil permettant d'avoir les informations d'un joueur Rinaorc</span>
   <br>
@@ -11,8 +11,6 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilisation</a>
 </p>
-
-NodeJS V17.x est requis !
 
 ## Installation
 
@@ -27,7 +25,7 @@ $ cd rinaorc-osint
 $ start install.bat
 ```
 
-Une fois cela fait, vous devez vous connecter sur Rinaorc, vous allez faire la commande /api. Vous allez avoir un code que vous allez devoir mettre dans le fichier nommé config.json. Ce code permet de vous authentifier et communiquer avec le serveur.
+Une fois cela fait, vous devez vous connecter sur Rinaorc, vous allez faire la commande /api. Vous allez avoir un code que vous allez devoir mettre dans le fichier nommé config.json
 
 ## Utilisation
 

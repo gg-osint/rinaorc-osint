@@ -1,3 +1,4 @@
 {
-  "api-token": "METTRE VOTRE TOKEN ENTRE LES GUILLEMETS"
+  "api-token": "YOUR_API_TOKEN",
+  "discord-bot-token": "YOUR_DISCORD_BOT_TOKEN"
 }
