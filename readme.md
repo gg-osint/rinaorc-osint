@@ -27,6 +27,8 @@ $ start install.bat
 
 Une fois cela fait, vous devez vous connecter sur Rinaorc, vous allez faire la commande /api. Vous allez avoir un code que vous allez devoir mettre dans le fichier nommé config.json
 
+Si vous souhaité avoir toutes les informations Discord des cibles, il vous faut dans le config.json renseignez un token de Bot Discord, cela permettera de communiquer avec l'API Discord.
+
 ## Utilisation
 
 ```console
