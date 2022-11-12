@@ -71,7 +71,7 @@ cmd.question('Pseudo de la cible : ', (pseudo) => {
       if (playerData.data.player.links.discord !== null) {
         try {
           const discordData = await axios({
-            url: `https://discord.com/api/v9/users/${discordAsLink}`,
+            url: `https://discord.com/api/v10/users/${discordAsLink}`,
             method: 'GET',
             headers: {
               Authorization: `Bot ${config['discord-bot-token']}`
