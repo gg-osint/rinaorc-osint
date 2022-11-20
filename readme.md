@@ -16,7 +16,7 @@
 
 ```console
 # Clone le repo
-$ git clone https://github.com/MathisDevelopment/rinaorc-osint.git
+$ git clone https://github.com/gg-osint/rinaorc-osint.git
 
 # Changer la dir à rinaorc-osint
 $ cd rinaorc-osint
