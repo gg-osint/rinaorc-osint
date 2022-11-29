@@ -14,7 +14,6 @@ console.log(chalk.yellowBright(" 888888ba  oo                                   
 console.log("Par Mat'#9885 - discord.gg/osint\n\n")
 
 
-
 cmd.question('Pseudo de la cible : ', (pseudo) => {
   async function main () {
     try {
